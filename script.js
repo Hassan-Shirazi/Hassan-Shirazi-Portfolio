@@ -497,70 +497,70 @@
                 description: "Design Full Animated Furniture Website beautiful landing page.",
                 category: "WEB DEVELOPMENT",
                 tags: ["HTML", "CSS", "JavaScript", "Bootstrap"],
-                image: "project/8.JPEG",
+                image: "https://i.ibb.co/xtVgs49q/8.jpg",
                 url: "https://hassan-shirazi.github.io/Furniture-Website/"
             }, {
                 title: "GYM Website",
                 description: "Ultimate Gym Website a beautiful landing page of a gym website.",
                 category: "WEB DEVELOPMENT",
                 tags: ["HTML", "CSS", "JavaScript", "Bootstrap"],
-                image: "project/9.JPEG",
+                image: "https://i.ibb.co/N2nmMvjW/9.jpg",
                 url: "https://hassan-shirazi.github.io/Gym-Website/"
             }, {
                 title: "Watch Website",
                 description: "Beautiful Design with Fully animation by Ai and GSAP",
                 category: "WEB DEVELOPMENT",
                 tags: ["HTML", "CSS", "JavaScript", "Ai"],
-                image: "project/17.JPEG",
+                image: "https://i.ibb.co/Xf67jbHL/17.jpg",
                 url: "https://hassan-shirazi.github.io/3D-Watch-Website/"
             }, {
                 title: "Smart Phones Website",
                 description: "Beautiful Animated 3D Website of Smart Phones By Using Ai.",
                 category: "WEB DEVELOPMENT",
                 tags: ["Ai", "JavaScript", "CSS", "GSAP"],
-                image: "project/11.JPEG",
+                image: "https://i.ibb.co/zKqVgDM/11.jpg",
                 url: "https://hassan-shirazi.github.io/Smart-Phones-Website/"
             }, {
                 title: "Fast Food Website",
                 description: "Animated Fast Food a landing page of a Website",
                 category: "WEB DEVELOPMENT",
                 tags: ["GSAP", "JavaScript", "CSS", "Ai"],
-                image: "project/6.JPEG",
+                image: "https://i.ibb.co/5hxJfDZ7/6.jpg",
                 url: "https://hassan-shirazi.github.io/Fast-Food-Website/"
             }, {
                 title: "Fruit & Vegetables Website",
                 description: "Ultimate Fruit and vegetables website by using HTML CSS JavaScript and Ai",
                 category: "WEB DEVELOPMENT",
                 tags: ["CSS", "JavaScript", "GSAP", "HTML"],
-                image: "project/7.JPEG",
+                image: "https://i.ibb.co/YBh828tT/7.jpg",
                 url: "https://hassan-shirazi.github.io/Fruit-Vegetables-Website/"
             }, {
                 title: "Clothes Website",
                 description: "Clone of Kapray Website with Html Css JavaScript",
                 category: "WEB DEVELOPMENT",
                 tags: ["HTML", "CSS", "JavaScript", "JQuery"],
-                image: "project/5.JPEG",
+                image: "https://i.ibb.co/8nVKwdW4/5.jpg",
                 url: "https://hassan-shirazi.github.io/Clothes-Website/"
             }, {
                 title: "Car Website",
                 description: "Landing Page of BMW Cars With smooth Animation and Transitions",
                 category: "WEB DEVELOPMENT",
                 tags: ["HTML", "JavaScript", "GSAP", "CSS"],
-                image: "project/2.PNG",
+                image: "https://i.ibb.co/PsRP1p8t/2.png",
                 url: "https://hassan-shirazi.github.io/Car-Website/"
             }, {
                 title: "Travel Website",
                 description: "Beautiful Travel Website for Turisom with fully animation",
                 category: "WEB DEVELOPMENT",
                 tags: ["Bootstrap", "CSS", "JavaScript", "HTML"],
-                image: "project/16.JPEG",
+                image: "https://i.ibb.co/DPnsnMjX/16.jpg",
                 url: "https://hassan-shirazi.github.io/Travel-Website/"
             }, {
                 title: "Shoes Website",
                 description: "A landing page of a shoes Website user attractive and Fully animated",
                 category: "WEB DEVELOPMENT",
                 tags: ["GSAP", "Ai", "JavaScript", "CSS"],
-                image: "project/13.PNG",
+                image: "https://i.ibb.co/8L3mdj1z/13.png",
                 url: "https://hassan-shirazi.github.io/Shoes-Website/"
             },];
 
@@ -642,27 +642,27 @@
                 if (!modalProjectGrid) return;
                 modalProjectGrid.innerHTML = `
                 <div class="modal-project-item">
-                    <img src="project/calculat.PNG" alt="Calculator Web App" loading="lazy">
+                    <img src="https://i.ibb.co/v6QyM3Nh/calculat.png" alt="Calculator Web App" loading="lazy">
                     <button class="modal-view-btn" data-url="https://hassan-shirazi.github.io/Calculator-App/">Calculator Web App</button>
                 </div>
                 <div class="modal-project-item">
-                    <img src="project/memo.PNG" alt="Memory Card Game" loading="lazy">
+                    <img src="https://i.ibb.co/nNVx2Bgg/memo.png" alt="Memory Card Game" loading="lazy">
                     <button class="modal-view-btn" data-url="https://hassan-shirazi.github.io/Memory-Card-Game/">Memory Card Game</button>
                 </div>
                 <div class="modal-project-item">
-                    <img src="project/rock.PNG" alt="Rock Paper Scissors Game" loading="lazy">
+                    <img src="https://i.ibb.co/WpjHdw4Z/rock.png" alt="Rock Paper Scissors Game" loading="lazy">
                     <button class="modal-view-btn" data-url="https://hassan-shirazi.github.io/Rock-Paper-Scissors-Game/">Rock Paper Scissors</button>
                 </div>
                 <div class="modal-project-item">
-                    <img src="project/tic.PNG" alt="Tic Tac Toe Game" loading="lazy">
+                    <img src="https://i.ibb.co/0jF3sdjq/tic.png" alt="Tic Tac Toe Game" loading="lazy">
                     <button class="modal-view-btn" data-url="https://hassan-shirazi.github.io/Tic-Tac-Toe-Game/">Tic Tac Toe</button>
                 </div>
                 <div class="modal-project-item">
-                    <img src="project/TODO.PNG" alt="TO-DO App List" loading="lazy">
+                    <img src="https://i.ibb.co/tNy6kjb/TODO.png" alt="TO-DO App List" loading="lazy">
                     <button class="modal-view-btn" data-url="https://hassan-shirazi.github.io/To-do-App-List/">TO-DO App List</button>
                 </div>
                 <div class="modal-project-item">
-                    <img src="project/time.PNG" alt="Real Time Clock" loading="lazy">
+                    <img src="https://i.ibb.co/rKRvv8mX/time.png" alt="Real Time Clock" loading="lazy">
                     <button class="modal-view-btn" data-url="https://hassan-shirazi.github.io/Real-Time-Clock/">Real Time Clock</button>
                 </div>
             `;
